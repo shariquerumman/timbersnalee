@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding-top: 800px;
+    text-align: center;
 }
 
 .profile {
@@ -99,4 +100,13 @@ p {
 }
 .link:hover{
     background-color:"#60d2e6";
+}
+a{
+    text-decoration: none;
+}
+html{
+scroll-behavior: smooth;
+}
+#writing:hover{
+color: #8400ff;
 }
